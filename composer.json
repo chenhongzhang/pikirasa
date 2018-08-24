@@ -4,7 +4,7 @@
     "description": "PKI public/private RSA key encryption using the OpenSSL extension",
     "keywords": ["pki", "rsa", "encryption", "private key", "public key", "crypt", "cryptography", "openssl"],
     "homepage": "https://github.com/chenhongzhang/pikirasa",
-    "license": "BSD-3-Clause",
+    "license": "MIT",
     "authors": [
         {
             "name": "chen hongzhang",
@@ -12,7 +12,6 @@
             "homepage": "https://www.ciweilive.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
         "php": ">=5.4",
         "ext-openssl": "*"
