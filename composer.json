@@ -4,7 +4,7 @@
     "description": "PKI public/private RSA key encryption using the OpenSSL extension",
     "keywords": ["pki", "rsa", "encryption", "private key", "public key", "crypt", "cryptography", "openssl"],
     "homepage": "https://github.com/chenhongzhang/pikirasa",
-    "license": "BSD",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "chen hongzhang",
