@@ -1,0 +1,25 @@
+{
+    "name": "chenhongzhang/rsa",
+    "type": "library",
+    "description": "PKI public/private RSA key encryption using the OpenSSL extension",
+    "keywords": ["pki", "rsa", "encryption", "private key", "public key", "crypt", "cryptography", "openssl"],
+    "homepage": "https://github.com/chenhongzhang/rsa",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "chen hongzhang",
+            "email": "1400266178@qq.com",
+            "homepage": "https://www.ciweilive.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.4",
+        "ext-openssl": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Rsa": "lib/"
+        }
+    }
+}
